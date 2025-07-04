@@ -19,7 +19,7 @@
    - 🇮🇩 Indonesian
    - 🇮🇩 Jawa Empire
 
-> *Sosial Media Vindra Ganzz*
+> *Sosial Media*
 > 
 [![](https://img.shields.io/badge/Instagram-pink?logo=Instagram&logoColor=pink&labelColor=white)](https://www.instagram.com/snapdxkz)
 [![](https://img.shields.io/badge/Whatsapp-white?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/628813100198?text=Asalamualaikum+bang)
