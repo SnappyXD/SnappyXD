@@ -2,7 +2,7 @@
 I'm an Information Systems student at UIN Sultan Syarif Kasim,<br>I am still learning for Front End and UI/UX at the moment<br>And i also make entertaiment content at Instagram, check it out!
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/dianqile11136) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/snapdxkz) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/snappyisreal) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@snapyxd) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:snappyisreal@gmail.com) 
 
 # 💻 Tech Stack:
@@ -10,10 +10,10 @@ I'm an Information Systems student at UIN Sultan Syarif Kasim,<br>I am still lea
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SnappyXD&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SnappyXD&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
+# 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SnappyXD&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
