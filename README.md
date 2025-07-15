@@ -16,7 +16,7 @@ I'm an Information Systems student at UIN Sultan Syarif Kasim,<br>I am still lea
 <div align="left">
 <!--   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fatkhurrhn&radius=16&theme=react&area=true&order=5" height="auto" alt="by fatkhurhhn"/> -->
   <a href="https://fatkhurrhn.vercel.app/">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=fatkhurrhn&theme=github-compact&radius=16" height="auto" alt="by SnappyXD"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SnappyXD&theme=github-compact&radius=16" height="auto" alt="by SnappyXD"/>
 </a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
